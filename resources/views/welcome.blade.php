@@ -93,7 +93,7 @@ c15 -8 58 -46 97 -85 l69 -71 -56 0 c-30 0 -70 -3 -87 -6 -28 -6 -31 -4 -31
                 <a class="twitter-link" href="http://twitter.com/home/?status=I%20created%20a%20project%20with%20AWS%20CodeStar!%20%23AWS%20%23AWSCodeStar%20https%3A%2F%2Faws.amazon.com%2Fcodestar"><img src="{{ asset('img/tweet.svg') }}" /></a>
                 <div class="text">
                     <h1>Foi!</h1>
-                    <h2>Apenas um teste de publicação automatica</h2>
+                    <h2>Apenas um teste de publicação automatica   xyz</h2>
                 </div>
             </div>
         </div>
