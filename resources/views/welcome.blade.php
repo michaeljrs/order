@@ -2,7 +2,7 @@
 <html>
     <head>
       <meta charset="utf-8">
-      <title>PHP Laravel web application</title>
+      <title>Apenas um teste usando laravel</title>
       <link href="{{ asset('css/gradients.css') }}" rel="stylesheet" type="text/css">
       <link href="{{ asset('css/styles.css') }}" rel="stylesheet" type="text/css">
     </head>
@@ -92,8 +92,8 @@ c15 -8 58 -46 97 -85 l69 -71 -56 0 c-30 0 -70 -3 -87 -6 -28 -6 -31 -4 -31
             <div class="message">
                 <a class="twitter-link" href="http://twitter.com/home/?status=I%20created%20a%20project%20with%20AWS%20CodeStar!%20%23AWS%20%23AWSCodeStar%20https%3A%2F%2Faws.amazon.com%2Fcodestar"><img src="{{ asset('img/tweet.svg') }}" /></a>
                 <div class="text">
-                    <h1>Foi!</h1>
-                    <h2>Apenas um teste de publicação automatica   xyz</h2>
+                    <h1>Testando 1 2 3</h1>
+                    <h2>teste de publicação automatica</h2>
                 </div>
             </div>
         </div>
