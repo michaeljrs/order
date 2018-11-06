@@ -12,7 +12,7 @@
             <div class="graphics">
                 <div class="tower">
                   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                       viewBox="0 0 302.000000 242.000000"  enable-background="new 0 0 302.000000 242.000000" xml:space="preserve">
+                       viewBox="0 0 302.000000 242.000000"  enable-background=" 0 302.000000 242.000000" xml:space="preserve">
                       <path d="M1710 2400 c-30 -30 -25 -75 20 -156 22 -41 40 -87 40 -104 0 -26 -6
 -33 -35 -46 -32 -13 -39 -13 -69 1 -27 13 -45 36 -87 117 -71 134 -121 167
 -174 113 -34 -34 -32 -71 11 -160 34 -72 35 -76 20 -100 -19 -29 -70 -41 -110
